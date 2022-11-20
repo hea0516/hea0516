@@ -1,21 +1,33 @@
-### Welcome to my github page ヽ(*´∀｀)
+### Welcome to Emily Au's github page ヽ(*´∀｀)
 
 <h4>About Me</h4>
-My name is AU Tsz Nga, Emily. I am a Hong Konger and a fresh graduate from The Chinese University of Hong Kong.<br>
-Major: Mathematics (Computational Big Data Analytics Stream)<br>
-Minor: computer science.
-<br><br>
+My name is AU Tsz Nga, Emily. I am a Hong Konger and a fresh graduate from The Chinese University of Hong Kong.</br>
+Major: Mathematics (Computational Big Data Analytics Stream)</br>
+Minor: computer science
+</br></br>
 I am currently working as a data engineer and planning for my future studies in computer science.
 I want explore more in the fields of machine learning and computer vision!
 
-<h4>Language and tools</h4>
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+You may reach me via emilyaua10@gmail.com
 
+<h4>Language and tools</h4>
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+with packages related to machine learning, i.e. ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) etc.
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 
 <h4>Github Stats</h4>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=hea0516&theme=prussian)](https://git.io/streak-stats)
-
-
 
 <!--
 **hea0516/hea0516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
