@@ -1,12 +1,15 @@
 ### Welcome to Emily Au's github page ヽ(*´∀｀)
 
 <h4>About Me</h4>
-My name is AU Tsz Nga, Emily. I am a Hong Konger and a fresh graduate from The Chinese University of Hong Kong.</br>
-Major: Mathematics (Computational Big Data Analytics Stream)</br>
-Minor: computer science
+Hello, I am Emily, a Master's Student at the University of Alberta, </br>
+studying in Master of Science (Crse) - Mathematical & Statistical Science - Modelling, Data, and Predictions</br>
+
 </br></br>
-I am currently working as a data engineer and planning for my future studies in computer science.
-I want explore more in the fields of machine learning and computer vision!
+More about myself is that 
+I studied in the Chinese University of Hong Kong for my undergraduate degree with
+Major: Mathematics (Computational Big Data Analytics Stream)</br>
+Minor: Computer science
+I want to explore more in machine learning and computer vision!
 
 You may reach me via emilyaua10@gmail.com
 
