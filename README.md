@@ -1,17 +1,19 @@
 ### Welcome to Emily Au's github page ヽ(*´∀｀)
 
 <h4>About Me</h4>
-Hello, I am Emily, a Master's Student at the University of Alberta, </br>
-studying in Master of Science (Crse) - Mathematical & Statistical Science - Modelling, Data, and Predictions</br>
+Hello, I am Emily, an MSc Student at the University of Alberta, </br>
+majoring in Mathematical & Statistical Science - Modelling, Data, and Predictions</br>
 
 </br></br>
 More about myself is that 
-I studied in the Chinese University of Hong Kong for my undergraduate degree with
+I worked as a Data Engineer for 1 year in Hong Kong and studied at the Chinese University of Hong Kong for my undergraduate degree with
 Major: Mathematics (Computational Big Data Analytics Stream)</br>
 Minor: Computer science
-I want to explore more in machine learning and computer vision!
+I want to explore more in data analytics and machine learning!
 
-You may reach me via emilyaua10@gmail.com
+
+
+You may reach me via emilyaua09@gmail.com
 
 <h4>Language and tools</h4>
 
